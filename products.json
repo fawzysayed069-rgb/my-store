@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "عطر فاخر - 50 مل",
+        "price": 350,
+        "image": "https://via.placeholder.com/250"
+    },
+    {
+        "id": 2,
+        "name": "زيت عطري مخصص - 30 مل",
+        "price": 200,
+        "image": "https://via.placeholder.com/250"
+    },
+    {
+        "id": 3,
+        "name": "عبوة عطر للسيارة",
+        "price": 90,
+        "image": "https://via.placeholder.com/250"
+    },
+    {
+        "id": 4,
+        "name": "مُثبت عطور زيتي",
+        "price": 150,
+        "image": "https://via.placeholder.com/250"
+    }
+]
